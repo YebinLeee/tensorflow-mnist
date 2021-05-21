@@ -6,6 +6,7 @@ Forked, modified by Yebin Lee <br>
 
 ## [Reference]
 
+<br>
 
 - [MNIST For ML Beginners](https://chromium.googlesource.com/external/github.com/tensorflow/tensorflow/+/r0.10/tensorflow/g3doc/tutorials/mnist/beginners/index.md)
 - [Deep MNIST for Experts](https://chromium.googlesource.com/external/github.com/tensorflow/tensorflow/+/r0.10/tensorflow/g3doc/tutorials/mnist/pros/index.md)
@@ -13,6 +14,10 @@ Forked, modified by Yebin Lee <br>
 <br>
 
 - [손으로 쓴 숫자의 DataSet](https://www.tensorflow.org/datasets/catalog/mnist)
+- [MNIST 데이터 세트의 테스트 이미지에 15 개의 손상을 추가하여 생성 된 데이터 세트](https://www.tensorflow.org/datasets/catalog/mnist_corrupted)
+
+<br>
+  
 - [신경망 훈련 : 옷 이미지를 분류하는 신경망 모델을 훈련](https://www.tensorflow.org/tutorials/keras/classification)
 
 <br>
